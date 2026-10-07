@@ -93,7 +93,7 @@ The reporter attempted vendor coordination twice. As of 2026-08-03, Bilibili had
 
 ## Credits
 
-Discovered and reported by: _[Your Name / Handle]_
+Discovered and reported by: Siyang Wu (LeoWSY-hashblue)
 
 ## References
 
